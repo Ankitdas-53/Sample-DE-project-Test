@@ -1,0 +1,13 @@
+# Core pipeline dependencies (needed to run generate/bronze/silver/gold scripts directly)
+pandas>=2.1
+numpy>=1.26
+pyarrow>=14.0
+PyYAML>=6.0
+
+# Testing
+pytest>=7.4
+
+# Only needed if you want to run the DAG inside a real Airflow instance
+# (already included in the apache/airflow docker image used by docker-compose.yml,
+# listed here for reference / local dev without Docker)
+# apache-airflow>=2.9,<2.10

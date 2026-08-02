@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+P001,Wireless Mouse,Electronics,19.99
+P002,Mechanical Keyboard,Electronics,89.99
+P003,USB-C Hub,Electronics,34.5
+P004,Standing Desk,Furniture,349.0
+P005,Office Chair,Furniture,219.0
+P006,Notebook Set,Stationery,12.75
+P007,Water Bottle,Lifestyle,15.0
+P008,Desk Lamp,Furniture,42.3
+P009,Backpack,Lifestyle,65.0
+P010,Webcam 1080p,Electronics,54.99
